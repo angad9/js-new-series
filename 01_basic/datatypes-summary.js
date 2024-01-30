@@ -43,4 +43,25 @@ const myFunction = function(){
 }
 
 
+//++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive), Heap (Non-Primitive)
+
+let myNameIs = "AngadMagar"
+
+let anothername = myNameIs
+anothername = "chaiaurcode"
+
+console.log(myNameIs);
+console.log(anothername);
+
+let userOne = {
+    email: "user123@gmail.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+
+
 
