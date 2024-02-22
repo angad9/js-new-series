@@ -2,6 +2,8 @@
 
 ## Complete Roadmap For JavaScript Beginner
 
+![javascript_page-0001](https://github.com/angad9/js-new-series/assets/73772102/6612b669-1988-4212-95f3-f3c502b35359)
+
 
 
 ###  Basic Concepts:
