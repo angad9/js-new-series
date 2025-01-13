@@ -74,6 +74,8 @@
 - React.js
 - Angular
 - Vue.js
+- Next.js
+- Mocha.js
 
 ### Testing:
 
@@ -89,3 +91,5 @@
 - Stay updated with the latest features and best practices
 - Follow JavaScript blogs, forums, and tutorials
 - Contribute to open-source projects
+
+- New Feature in JavaSript for Upcomings  
